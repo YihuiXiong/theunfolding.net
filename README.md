@@ -1,2 +1,2 @@
 # yihui-x.io
-This is the repository for CS20
+This is the repository for Fa25-CS20
