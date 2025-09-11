@@ -1,2 +1,2 @@
 # YihuiXiong.io
-This is the initial repository for CS20
+This is the repository for CS20
